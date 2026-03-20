@@ -114,64 +114,96 @@ const Mawahid = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ AI Voice Emotion Recognition
-> *Real-time emotion detection from audio input*
+### 🤖 Align-AI
+> *Semantic Resume Matcher powered by Google Gemini*
 
-**Stack:** `Python` `React` `TensorFlow` `FastAPI`
+**Stack:** `Next.js 15` `FastAPI` `PostgreSQL` `Gemini API`
 
-- 🔊 Live audio streaming & emotion classification
-- 🧠 Deep learning model with real-time inference
-- 🎨 Interactive React dashboard with waveform viz
-- ⚡ Low-latency FastAPI model serving backend
+- 🧠 Hybrid scoring: cosine similarity + TF-weighted keywords
+- 📄 ATS-optimized resume generation pipeline
+- 🆓 Free-tier fallback via Jina AI + Groq (llama-3.3-70b)
+- ✨ SVG animations & polished full-stack UI
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=7df9ff&labelColor=161b22)](https://github.com/SMAWAHID)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=7df9ff&labelColor=161b22)](https://github.com/SMAWAHID/Align-AI)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧑‍💼 AI Recruitment System
-> *End-to-end hiring platform with resume intelligence*
+### 🔍 AI DevOps Investigator
+> *Agentic AI assistant for DevOps incident analysis*
 
-**Stack:** `ASP.NET Core` `React` `Python` `PostgreSQL`
+**Stack:** `Next.js` `TypeScript` `Groq` `MCP Server`
 
-- 📄 Automated resume parsing & candidate ranking
-- 🤖 NLP-powered job description matching engine
-- 📊 HR analytics dashboard with match scoring
-- 🔐 Role-based access for candidates & recruiters
+- 🤖 Multi-agent monorepo: agent / frontend / MCP server
+- ⚡ Groq-powered LLM backend for fast inference
+- 🔧 Automated root-cause analysis for system events
+- 🧩 Custom MCP server with tool-use integration
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=7df9ff&labelColor=161b22)](https://github.com/SMAWAHID)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=7df9ff&labelColor=161b22)](https://github.com/SMAWAHID/AI-Devops-Investigator)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ Shopify Skincare Store
-> *International e-commerce with custom storefront*
+### 🏋️ LiftOps
+> *Operations & management platform*
 
-**Stack:** `Shopify` `Liquid` `JavaScript` `Node.js`
+**Stack:** `React` `Node.js` `PostgreSQL`
 
-- 🌍 Multi-currency & international shipping
-- 💅 Custom theme with optimized product UX
-- 📦 Automated order & inventory workflows
-- 📈 Conversion-optimized checkout experience
+- 📦 End-to-end operations workflow management
+- 📊 Dashboard with real-time data views
+- 🔐 Auth & role-based access control
+- ⚙️ RESTful API with clean service architecture
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=7df9ff&labelColor=161b22)](https://github.com/SMAWAHID)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=7df9ff&labelColor=161b22)](https://github.com/SMAWAHID/LiftOps)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Python Automation Suite
-> *Developer & business automation tooling*
+### 🧠 RAG Pipeline
+> *Retrieval-Augmented Generation from scratch*
 
-**Stack:** `Python` `Selenium` `BeautifulSoup` `APIs`
+**Stack:** `Python` `LangChain` `FAISS` `OpenAI`
 
-- 🤖 Web scraping & data extraction pipelines
-- 📧 Automated email & reporting workflows
-- 🗃️ File & data transformation utilities
-- 🔗 Third-party API integration scripts
+- 📚 Document ingestion & vector embedding pipeline
+- 🔍 Semantic search with FAISS similarity index
+- 💬 Context-aware LLM responses over custom data
+- 🛠️ Modular architecture for plug-and-play data sources
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=7df9ff&labelColor=161b22)](https://github.com/SMAWAHID)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=7df9ff&labelColor=161b22)](https://github.com/SMAWAHID/RAG)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Wallet Payment System
+> *Digital wallet & transaction management system*
+
+**Stack:** `ASP.NET Core` `C#` `SQL Server`
+
+- 💰 Peer-to-peer transfer & balance management
+- 🔐 Secure transaction validation & audit trail
+- 📊 Account history with filtering & reporting
+- 🏗️ Clean layered architecture with service pattern
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=7df9ff&labelColor=161b22)](https://github.com/SMAWAHID/WalletPaymentSystem)
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Serverless CI/CD
+> *Automated serverless deployment pipeline*
+
+**Stack:** `AWS Lambda` `GitHub Actions` `Node.js`
+
+- 🚀 Fully automated build → test → deploy pipeline
+- ☁️ Serverless-first architecture on AWS
+- 🔄 GitHub Actions workflow with environment stages
+- 📦 Infrastructure-as-code deployment scripts
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=7df9ff&labelColor=161b22)](https://github.com/SMAWAHID/serverless-cicd)
 
 </td>
 </tr>
@@ -195,20 +227,6 @@ const Mawahid = {
 
 <div align="center">
 
-### `> skills_radar --visual`
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=SMAWAHID&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&text_color=c9d1d9&layout=compact)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ### `> contribution_snake --animate`
 
 <br/>
@@ -216,7 +234,7 @@ const Mawahid = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMAWAHID/SMAWAHID/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMAWAHID/SMAWAHID/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/SMAWAHID/SMAWAHID/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SMAWAHID/SMAWAHID/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -235,10 +253,9 @@ const Mawahid = {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=7df9ff&labelColor=161b22)](https://your-portfolio.dev)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:your@email.com)
-[![Twitter / X](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=161b22)](https://twitter.com/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://www.linkedin.com/in/syed-mawahid-hussain-ab951b180/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=7df9ff&labelColor=161b22)](https://mawahid-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:hafizmawahid2775@gmail.com)
 
 <br/>
 
