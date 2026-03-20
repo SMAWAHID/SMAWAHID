@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wahid%20Syed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Systems%20Thinker&descAlignY=52&descSize=16" width="100%"/>
@@ -22,6 +23,7 @@
 
 </div>
 
+```ts
 const wahid = {
   role      : "Full-Stack Developer & AI Builder",
   location  : "Pakistan 🇵🇰",
@@ -30,7 +32,7 @@ const wahid = {
   building  : "Real-world AI & SaaS products",
   interests : ["Automation", "Scalable Systems", "Developer Tools"],
 };
-
+````
 
 <div align="center">
 
@@ -42,7 +44,7 @@ const wahid = {
 
 </div>
 
-
+---
 
 <div align="center">
 
@@ -118,6 +120,8 @@ Real-time emotion detection from audio
 * 🧠 Deep learning inference pipeline
 * ⚡ Low-latency API backend
 
+[![Repo](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge\&logo=github\&logoColor=7df9ff)](https://github.com/SMAWAHID)
+
 </td>
 
 <td width="50%">
@@ -131,6 +135,8 @@ Smart hiring with resume parsing
 * 📄 Resume parsing & ranking
 * 🤖 NLP-based job matching
 * 📊 Analytics dashboard
+
+[![Repo](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge\&logo=github\&logoColor=7df9ff)](https://github.com/SMAWAHID)
 
 </td>
 </tr>
@@ -146,6 +152,8 @@ International e-commerce
 * 💅 Custom UX optimized theme
 * 📈 Conversion-focused design
 
+[![Repo](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge\&logo=github\&logoColor=7df9ff)](https://github.com/SMAWAHID)
+
 </td>
 
 <td width="50%">
@@ -157,6 +165,8 @@ Python automation tools
 * 🤖 Web scraping pipelines
 * 📧 Automated workflows
 * 🔗 API integrations
+
+[![Repo](https://img.shields.io/badge/Repo-0d1117?style=for-the-badge\&logo=github\&logoColor=7df9ff)](https://github.com/SMAWAHID)
 
 </td>
 </tr>
@@ -190,6 +200,16 @@ Python automation tools
 ## 🏆 Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=SMAWAHID&theme=tokyonight&no-frame=true&column=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/SMAWAHID/SMAWAHID/output/github-contribution-grid-snake.svg" />
 
 </div>
 
