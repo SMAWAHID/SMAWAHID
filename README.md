@@ -23,7 +23,7 @@
 </div>
 
 ```ts
-const wahid = {
+const Mawahid = {
   role      : "Full-Stack Developer & AI Builder",
   location  : "Pakistan 🇵🇰",
   stack     : ["React", "FastAPI", "ASP.NET Core", "Node.js", "Python"],
