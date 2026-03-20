@@ -22,7 +22,6 @@
 
 </div>
 
-```ts
 const wahid = {
   role      : "Full-Stack Developer & AI Builder",
   location  : "Pakistan 🇵🇰",
@@ -43,7 +42,7 @@ const wahid = {
 
 </div>
 
----
+
 
 <div align="center">
 
