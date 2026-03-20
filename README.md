@@ -195,11 +195,11 @@ const Mawahid = {
 
 <div align="center">
 
-### `> achievements --show`
+### `> skills_radar --visual`
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SMAWAHID&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=SMAWAHID&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&text_color=c9d1d9&layout=compact)
 
 </div>
 
