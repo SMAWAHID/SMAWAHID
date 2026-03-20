@@ -1,5 +1,3 @@
-
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wahid%20Syed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Systems%20Thinker&descAlignY=52&descSize=16" width="100%"/>
@@ -33,7 +31,7 @@ const wahid = {
   building  : "Real-world AI & SaaS products",
   interests : ["Automation", "Scalable Systems", "Developer Tools"],
 };
-````
+
 
 <div align="center">
 
