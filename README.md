@@ -84,9 +84,9 @@ const Mawahid = {
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=SMAWAHID&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![](https://streak-stats.demolab.com?user=SMAWAHID&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SMAWAHID&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=SMAWAHID&show_icons=true&theme=tokyonight)
 
 <br/><br/>
 
