@@ -84,9 +84,15 @@ const Mawahid = {
 
 <br/>
 
-![](https://streak-stats.demolab.com?user=SMAWAHID&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=SMAWAHID&show_icons=true&theme=tokyonight)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SMAWAHID&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SMAWAHID&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 <br/><br/>
 
