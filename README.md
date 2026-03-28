@@ -90,10 +90,6 @@ const Mawahid = {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SMAWAHID&theme=tokyonight&hide_border=true&background=0d1117&ring=7df9ff&fire=ff6e96&currStreakLabel=7df9ff&sideLabels=7df9ff&currStreakNum=ffffff&sideNums=ffffff" width="600px"/>
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMAWAHID&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7df9ff&line=7df9ff&point=ffffff&area=true&area_color=7df9ff" width="100%"/>
 
 </div>
