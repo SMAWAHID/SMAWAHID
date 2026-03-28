@@ -84,9 +84,11 @@ const Mawahid = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SMAWAHID&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&icon_color=7df9ff&text_color=c9d1d9&rank_icon=github" height="175px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMAWAHID&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&text_color=c9d1d9&langs_count=8" height="175px"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SMAWAHID&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&icon_color=7df9ff&text_color=c9d1d9&rank_icon=github" height="175px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMAWAHID&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7df9ff&text_color=c9d1d9&langs_count=8" height="175px"/>
+</p>
 
 <br/><br/>
 
